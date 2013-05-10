@@ -1,0 +1,10 @@
+c:\users\apowell\documents\visual studio 2010\Projects\TestApp\TestApp\bin\Debug\TestApp.exe
+c:\users\apowell\documents\visual studio 2010\Projects\TestApp\TestApp\bin\Debug\TestApp.pdb
+c:\users\apowell\documents\visual studio 2010\Projects\TestApp\TestApp\obj\x86\Debug\TestApp.exe
+c:\users\apowell\documents\visual studio 2010\Projects\TestApp\TestApp\obj\x86\Debug\TestApp.pdb
+C:\Users\apowell\Documents\Visual Studio 2010\Projects\TestApp\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\apowell\Documents\Visual Studio 2010\Projects\TestApp\TestApp\bin\Debug\Microsoft.Exchange.WebServices.dll
+C:\Users\apowell\Documents\Visual Studio 2010\Projects\TestApp\TestApp\bin\Debug\Microsoft.Exchange.WebServices.xml
+C:\Users\apowell\Documents\Visual Studio 2010\Projects\TestApp\TestApp\bin\Debug\nunit.framework.dll
+C:\Users\apowell\Documents\Visual Studio 2010\Projects\TestApp\TestApp\obj\x86\Debug\TestApp.csprojResolveAssemblyReference.cache
+C:\Users\apowell\Documents\Visual Studio 2010\Projects\TestApp\TestApp\obj\x86\Debug\TestApp.csproj.ResolveComReference.cache
